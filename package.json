@@ -1,0 +1,17 @@
+{
+  "name": "task-list-api",
+  "version": "1.0.0",
+  "description": "A simple API for managing a task list with CRUD operations.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
